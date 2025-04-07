@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.vert {
+    background-color: #61FF7B;
+}
+
+.bleu {
+    background-color: #1398A0;
+}
+
+
+
+.boldBlack {
+    font-weight: 700;
+    color: black;
+}
+
+.regularWhite {
+    font-weight: 100;
+    color: white;
+}
+
+
+
+.btn {
+    padding: 11px 21px;
+    font-family: 'Inter';
+    text-decoration: none;
+    display: inline-block;
+}
+
+.solid {
+    border: 5px solid black;
+}
+
+.dashed {
+    border: 5px dashed black;
+}
+
+.radius32 {
+    border-radius: 32px;
+}
+
+.btn4 {
+    border-radius: 0 32px;
+}
+
+.btn5 {
+    border-radius: 8px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.vert {
+    background-color: #61FF7B;
+}
+
+.bleu {
+    background-color: #1398A0;
+}
+
+
+
+.boldBlack {
+    font-weight: 700;
+    color: black;
+}
+
+.regularWhite {
+    font-weight: 100;
+    color: white;
+}
+
+
+
+.btn {
+    padding: 11px 21px;
+    font-family: 'Inter';
+    text-decoration: none;
+    display: inline-block;
+}
+
+.solid {
+    border: 5px solid black;
+}
+
+.dashed {
+    border: 5px dashed black;
+}
+
+.radius32 {
+    border-radius: 32px;
+}
+
+.btn4 {
+    border-radius: 0 32px;
+}
+
+.btn5 {
+    border-radius: 8px;
+}
